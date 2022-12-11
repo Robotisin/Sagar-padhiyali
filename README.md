@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Padhiyali</h1>
-<h3 align="center">the devloper not creat a bug,</br> But the bug is creat automatic</h3>
+<h3 align="center">the devloper not creat a bug,</br> But the bug is creat automatic.....</h3>
 <img align="right" alt="codeing" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **----------**
